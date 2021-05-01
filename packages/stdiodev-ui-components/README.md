@@ -1,13 +1,13 @@
-# components-ui
+# stdiodev-ui-components
 
 > Made with create-react-library
 
-[![NPM](https://img.shields.io/npm/v/components-ui.svg)](https://www.npmjs.com/package/components-ui) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/stdiodev-ui-components.svg)](https://www.npmjs.com/package/stdiodev-ui-components) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-npm install --save components-ui
+npm install --save stdiodev-ui-components
 ```
 
 ## Usage
@@ -15,8 +15,8 @@ npm install --save components-ui
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'components-ui'
-import 'components-ui/dist/index.css'
+import MyComponent from 'stdiodev-ui-components'
+import 'stdiodev-ui-components/dist/index.css'
 
 class Example extends Component {
   render() {
