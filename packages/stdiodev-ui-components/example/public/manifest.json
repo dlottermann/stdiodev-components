@@ -1,6 +1,6 @@
 {
-  "short_name": "components-ui",
-  "name": "components-ui",
+  "short_name": "stdiodev-ui-components",
+  "name": "stdiodev-ui-components",
   "icons": [
     {
       "src": "favicon.ico",
