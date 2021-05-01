@@ -1,6 +1,6 @@
 {
-  "short_name": "button",
-  "name": "button",
+  "short_name": "components-ui",
+  "name": "components-ui",
   "icons": [
     {
       "src": "favicon.ico",
