@@ -4,7 +4,7 @@
   "description": "Made with create-react-library",
   "author": "dlottermann",
   "license": "",
-  "repository": "dlottermann/button",
+  "repository": "dlottermann/stdiodev-components",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
@@ -49,5 +49,6 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "gitHead": "b8300a65b0c23cc4baf7af020a6bf677b8b8b892"
 }
