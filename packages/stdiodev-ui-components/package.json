@@ -1,10 +1,10 @@
 {
-  "name": "components-ui",
+  "name": "stdiodev-ui-components",
   "version": "1.0.1",
   "description": "Made with create-react-library",
   "author": "dlottermann",
   "license": "",
-  "repository": "dlottermann/components-ui",
+  "repository": "dlottermann/stdiodev-ui-components",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
@@ -49,5 +49,6 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "gitHead": "80b190930286bb48fc0b359121609f1e092a7b78"
 }
